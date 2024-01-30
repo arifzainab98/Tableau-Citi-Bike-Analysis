@@ -1,5 +1,7 @@
 # Tableau-Citi-Bike-Analysis
 
+Tableau Workbook Final: https://public.tableau.com/app/profile/zainab.arif/viz/MyFirstViz_17065896289210/CitiBikeJan2023vsJune2023?publish=yes
+
 Instructions
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
